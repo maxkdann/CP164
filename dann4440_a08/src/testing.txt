@@ -1,0 +1,43 @@
+As shown by the testing below, it is most efficient to use the tree with the popular letters
+
+Comparing by order: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+31762167
+------------------------------------------------------------
+Comparing by order: MFTCJPWADHKNRUYBEIGLOQSVXZ
+8854330
+------------------------------------------------------------
+Comparing by order: ETAOINSHRDLUCMPFYWGBVKJXZQ
+8208847
+------------------------------------------------------------
+Letter Count/Percent Table
+
+Total Count: 2,532,309
+
+Letter  Count       %
+---------------------
+   A206,945     8.17%
+   B 37,497     1.48%
+   C 66,995     2.65%
+   D108,711     4.29%
+   E332,097    13.11%
+   F 56,253     2.22%
+   G 48,534     1.92%
+   H176,430     6.97%
+   I175,306     6.92%
+   J  5,838     0.23%
+   K 14,420     0.57%
+   L 99,544     3.93%
+   M 62,200     2.46%
+   N169,897     6.71%
+   O184,605     7.29%
+   P 43,009     1.70%
+   Q  2,533     0.10%
+   R148,097     5.85%
+   S162,029     6.40%
+   T235,206     9.29%
+   U 68,278     2.70%
+   V 26,252     1.04%
+   W 56,483     2.23%
+   X  4,025     0.16%
+   Y 39,219     1.55%
+   Z  1,906     0.08%

@@ -1,0 +1,135 @@
+"""
+-------------------------------------------------------
+Assg  Testing
+-------------------------------------------------------
+Author:  Maxwell Dann
+ID:      190274440
+Email:   dann4440@mylaurier.ca
+Version: 2020-01-23
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+	food = Food("grape",3,True,67)
+    food1 = Food("chicken",2,False,67)
+    foods = [food,food1]
+    v = by_origin(foods,2)
+    
+Name:       chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   67
+
+	food = Food("grape",3,True,67)
+    food1 = Food("chicken",2,False,67)
+    food2 = Food("sushi",3,True,67)
+    foods = [food,food1,food2]
+    v = by_origin(foods,3)
+    
+Name:       grape
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   67
+Name:       sushi
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   67
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+	food = Food("grape",3,True,2)
+    food1 = Food("chicken",2,False,1)
+    food2 = Food("sushi",3,True,12)
+    foods = [food,food1,food2]
+    avg = average_calories(foods)    
+    print(avg)
+    
+>5
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+
+	food = Food("grape",3,True,5)
+    food1 = Food("chicken",2,False,67)
+    food2 = Food("sushi",3,True,10)
+    food3 = Food("water",3,True,0)
+    foods = [food,food1,food2,food3]
+    a = calories_by_origin(foods, 3)
+    print(a)
+    
+>5
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+BBQ Pork                            Chinese      False      920
+Beef with Green Pepper              Chinese      False      251
+
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+using this list
+	food = Food("grape",3,True,5)
+    food1 = Food("chicken",2,False,67)
+    food2 = Food("sushi",3,True,10)
+    food3 = Food("water",3,True,0)
+    foods = [food,food1,food2,food3]
+    
+test to accept all
+result = food_search(foods, -1, 0, False)
+
+Name:       grape
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   5
+Name:       chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   67
+Name:       sushi
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   10
+Name:       water
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   0
+
+result = food_search(foods, 2, 0, False)
+
+Name:       chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   67
+
+result = food_search(foods, -1, 6, False)
+
+Name:       grape
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   5
+Name:       water
+Origin:     Ethiopian
+Vegetarian: True
+
+result = food_search(foods, -1, 0, True)
+
+Name:       grape
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   5
+Name:       sushi
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   10
+Name:       water
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   0
+
+Calories:   0

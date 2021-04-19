@@ -1,0 +1,43 @@
+Lasagna|7|False|135
+Butter Chicken|2|False|490
+Moo Goo Guy Pan|1|False|272
+Vegetable Alicha|3|True|138
+Spanakopita|5|True|260
+Chirashi Don|6|False|600
+Canuck Burger|0|False|7500
+Turducken|8|False|12240
+Shark Fin Soup|1|False|46
+Chamuco|4|True|150
+Natto|6|True|212
+Canada Goose Chili|0|False|199
+Diet Free-Range Gluten-free Water|8|True|0
+Kung Pao Chicken|1|False|229
+General Tao Chicken|1|False|850
+Spicy Vegetable Moo Shu|1|True|140
+BBQ Pork|1|False|920
+Orange Chicken|1|False|800
+Vegetables with Cashew Nuts|1|True|143
+Lemon Chicken|1|False|226
+Beef with Green Pepper|1|False|251
+Sweet and Sour Pork|1|False|231
+Szechuan Shrimp|1|False|516
+Poutine|0|False|710
+Teppanyaki|6|False|200
+Greek Salad|5|True|185
+Fettuccine|7|False|266
+Teriyaki|6|False|233
+Shortbread |9|True|502
+Pavlova|10|True|272
+Hokey Pokey Ice Cream|10|True|106
+Fricot|0|False|360
+Chip Butty|11|True|956
+Grilled Salmon|0|False|511
+Ravioli|7|False|246
+Crepe|7|True|186
+Fried Rice|1|False|425
+Pepperoni Pizza|7|False|713
+Chicken Kabob|2|False|167
+Panzerotti|7|False|770
+Spring Rolls|1|True|200
+Chicken Chow Mein|1|False|178
+Chicken Wings|8|False|298

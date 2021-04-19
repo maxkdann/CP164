@@ -1,0 +1,14 @@
+Using array-based list Hash_Set
+
+Total Comparisons: 5,388,485
+Word with maximum comparisons 'the': 40,802
+---------------------------------------------
+Using array-based Sorted List Hash_Set
+
+Total Comparisons: 2,441,398
+Word with maximum comparisons 'the': 58,873
+--------------------------------------------
+Using linked BST Hash_Set
+
+Total Comparisons: 4,910,207
+Word with maximum comparisons 'the': 81,111
