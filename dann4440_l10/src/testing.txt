@@ -1,0 +1,8 @@
+n:   10        |      Comparisons       | |         Swaps          |
+Algorithm      In Order Reversed   Random In Order Reversed   Random
+-------------- -------- -------- -------- -------- -------- --------
+Bubble Sort           9       54       42        0       45       21
+Insertion Sort       45        9       29       10       10       10
+Merge Sort           25       25       23        0        0        0
+Quick Sort           90       85       55        0        0        0
+Selection Sort       45       45       45       10       10       10

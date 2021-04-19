@@ -1,0 +1,13 @@
+[]
+the initial stack is empty: True
+After pushing a value is_empty should be false: False
+The value pushed to the stack is Name:       grape
+Origin:     Japanese
+Vegetarian: False
+Calories:   9
+Pop that value: Name:       grape
+Origin:     Japanese
+Vegetarian: False
+Calories:   9
+Now the stack is empty again True
+[]
